@@ -10,6 +10,7 @@ Clean Architecture를 읽고 보편 원칙과 소프트웨어 설계 핵심 원�
 - [Clean Code](#clean-code)
   - [Contents](#contents)
   - [Chapter](#chapter)
+  - [Goal](#goal)
 
 ## Chapter
 
@@ -50,3 +51,6 @@ Clean Architecture를 읽고 보편 원칙과 소프트웨어 설계 핵심 원�
 |  챕터 33  | 사례 연구: 비디오 판매                             | |
 |  챕터 34  | 빠져 있는 장                                     | |
 
+## Goal
+
+[iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) 와 책의 개념과 맞물려 이해하는 것을 목표로합니다.
